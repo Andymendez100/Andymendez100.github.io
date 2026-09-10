@@ -1,5 +1,6 @@
 ---
 title: Minion Privacy Policy
+layout: minion
 permalink: /minion/privacy
 ---
 
